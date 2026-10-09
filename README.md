@@ -80,4 +80,4 @@ results/              frame-level, animal-level, comparison and simulation CSVs
 requirements.txt
 ```
 
-License: MIT (add a `LICENSE` file when you publish).
+License: MIT (see LICENSE)
